@@ -34,6 +34,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000), type in a Chess.com username, and go.
 
+**Live demo:** [https://chessprod.vercel.app/](https://chessprod.vercel.app/)
+
 ## Credits
 
 Game data and player stats provided by the [Chess.com PubAPI](https://www.chess.com/news/view/published-data-api). This project is not affiliated with or endorsed by Chess.com.
+
+**Author:** [oni1997](https://github.com/oni1997/chessprod)
